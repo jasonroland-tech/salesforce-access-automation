@@ -1,0 +1,5 @@
+# Employee data and exports must never be committed
+*.csv
+*.xlsx
+*.png
+*.jpg
